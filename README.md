@@ -22,4 +22,4 @@
 - O projeto desenvolvido foi uma aplicação web que tem como objetivo organizar os jogos como um calendário para garantir que não vai perder nenhuma partida e planejar o encontro com amigos.
 
 
-<br><br>
+
