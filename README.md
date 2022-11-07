@@ -19,7 +19,10 @@
 - Css
 
 ## Mais sobre o Projeto
-- O projeto desenvolvido foi uma aplicação web que tem como objetivo organizar os jogos como um calendário para garantir que não vai perder nenhuma partida e planejar o encontro com amigos.
+- O projeto desenvolvido foi uma aplicação web que tem como objetivo organizar os jogos como um calendário para garantir que não vai perder nenhuma partida e planejar o encontro com amigos. 
+
+- <b>Você pode conferir mais do projeto por aqui: <a href="https://dudaoo1.github.io/nlw-copa/">Deploy</a></b>
+
 
 
 
